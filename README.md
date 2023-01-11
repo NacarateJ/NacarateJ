@@ -20,13 +20,64 @@
    <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
- ##
   <br>
- 
+  
  <div align="center"> 
   <a href = "mailto:jaquelinenacarate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaquelinenacarate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   ##
  
   ![Snake animation](https://github.com/NacarateJ/NacarateJ/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+<div align="center">
+  <h2>Projects I worked on:</h2>
+  </div>
+  
+  <div align="center">
+  
+  <table>
+  <tr>
+  <td class="1" width="50%">
+  <h3 align="center">The BJJ LogApp</h3>
+  <p align="center">
+
+
+https://user-images.githubusercontent.com/114256348/211747476-d2d55d00-e662-4430-b665-fb935b0b4d4b.mp4
+
+  <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/jaqueline-nacarate-the-bjj-log-app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+</p>
+
+
+  </p>
+  </td>
+  <td class="1" width="50%">
+  <h3 align="center">Band Site</h3>
+   <p align="center">
+   
+
+https://user-images.githubusercontent.com/114256348/211747643-a94d7265-84a5-456a-b3e4-7d8756e24d52.mp4
+
+
+ <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/jaqueline-nacarate-bandsite" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+</p>
+
+
+  </p>
+  </td>
+  
+  
+  </tr>
+  
+  </table>
+  
+  </div>
+  
+
