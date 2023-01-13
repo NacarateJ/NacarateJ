@@ -30,6 +30,10 @@
  
   ![Snake animation](https://github.com/NacarateJ/NacarateJ/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  
+  
+  <!---Video Demo--->
 
 <div align="center">
   <h2>Projects I worked on:</h2>
@@ -38,43 +42,89 @@
   <div align="center">
   
   <table>
+    
+    
   <tr>
   <td class="1" width="50%">
   <h3 align="center">The BJJ LogApp</h3>
   <p align="center">
 
-
 https://user-images.githubusercontent.com/114256348/211747476-d2d55d00-e662-4430-b665-fb935b0b4d4b.mp4
+    
 
   <p align="center">
+             <p align="center"> Single page application featuring video hosting and streaming from Firebase with Full CRUD operations, RESTful API and Routing.</p>
+     <p align="center">
 <span>
 <a href="https://github.com/NacarateJ/jaqueline-nacarate-the-bjj-log-app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 </span>
+       </p>
 </p>
-
-
   </p>
   </td>
+    
+   
+  <td class="1" width="50%">
+  <h3 align="center">InStock</h3>
+   <p align="center">
+
+<!---InStock Video--->
+
+ <p align="center">
+        <p align="center">Agile project to deliver a full stack Inventory Management System with a modern React and SCSS front-end communicating with a robust Express, Nodejs and MySQL back-
+end.</p>
+    <p align="center">
+<span>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+      </p>
+</p>
+  </p>
+  </td>
+  </tr>
+  
+     
+ 
+  <td class="1" width="50%">
+  <h3 align="center">BrainFlix</h3>
+  <p align="center">
+
+https://user-images.githubusercontent.com/114256348/212267646-26d621c8-846e-4167-b74c-68b7b84a48aa.mp4
+
+  <p align="center">
+       <p align="center">Video streaming platform posed of multiple React components that render using API to incorporate dynamic data.
+</p>
+  <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/jaqueline-nacarate-brainflix" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+    </p>
+</p>
+  </p>
+  </td>
+    
+    
+    
   <td class="1" width="50%">
   <h3 align="center">Band Site</h3>
    <p align="center">
    
-
-https://user-images.githubusercontent.com/114256348/211747643-a94d7265-84a5-456a-b3e4-7d8756e24d52.mp4
-
+https://user-images.githubusercontent.com/114256348/212266358-1f6bb0dc-4448-4362-99d9-3c6c8d24963a.mp4
 
  <p align="center">
+       <p align="center">Functional and responsive site respecting a mobile-first design approach using Sass, React, JavaScript DOM manipulation, FlexBox and API HTTP requests.
+</p>
+  <p align="center">
 <span>
 <a href="https://github.com/NacarateJ/jaqueline-nacarate-bandsite" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 </span>
+    </p>
 </p>
-
-
   </p>
   </td>
-  
-  
   </tr>
+  
+  
   
   </table>
   
