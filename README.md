@@ -7,11 +7,11 @@
 
 <div align="center">
   <a href="https://github.com/NacarateJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NacarateJ&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NacarateJ&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_rank=true" />
      </a> 
   
   <a href="https://github.com/NacarateJ">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacarateJ&layout=compact&theme=aura_dark&hide=shell&langs_count=7" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NacarateJ&layout=compact&theme=aura_dark&hide=shell&langs_count=7" />
     </a> 
   
 </div>
