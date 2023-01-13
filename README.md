@@ -2,11 +2,18 @@
 <div align="center">
   <h2>Hi there, I'm Jackie, a passionate and very curious full-stack web developer.</h2>
   </div>
+  
 <br>
+
 <div align="center">
   <a href="https://github.com/NacarateJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NacarateJ&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacarateJ&layout=compact&langs_count=7&theme=aura_dark&hide=shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NacarateJ&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_rank=true" />
+     </a> 
+  
+  <a href="https://github.com/NacarateJ">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacarateJ&layout=compact&theme=aura_dark&hide=shell&langs_count=7" />
+    </a> 
+  
 </div>
 <br>
 <div style="display: inline_block" align="center"><br>
