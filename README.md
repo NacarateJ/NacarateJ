@@ -25,6 +25,10 @@
    <img align="center" alt="Express" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg>
    <img align="center" alt="Nodejs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
    <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Knex.js" height="30" width="30" src="https://static-00.iconduck.com/assets.00/knex-icon-512x512-vg01e8qb.png">
+  <img align="center" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+   <img align="center" alt="Jira" height="30" width="30" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png">
 </div>
 
   <br>
