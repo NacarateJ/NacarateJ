@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/114256348/211747476-d2d55d00-e662-4430
   <h3 align="center">InStock</h3>
    <p align="center">
 
-<!---InStock Video--->
+https://user-images.githubusercontent.com/114256348/212585085-20d7a8f1-138a-4a23-b8aa-5b0101e62402.mp4
 
  <p align="center">
         <p align="center">Agile project to deliver a full stack Inventory Management System with a modern React and SCSS front-end communicating with a robust Express, Nodejs and MySQL back-
