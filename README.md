@@ -37,6 +37,11 @@
   <a href = "mailto:jaquelinenacarate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaquelinenacarate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  <br>
+  <br>
+ 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NacarateJ.visitor-badge&left_color=%23fe7371&right_color=%23252334"  />
+  
    ##
  
   ![Snake animation](https://github.com/NacarateJ/NacarateJ/blob/output/github-contribution-grid-snake.svg)
