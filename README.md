@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/114256348/212585085-20d7a8f1-138a-4a23
 end.</p>
     <p align="center">
 <span>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<a href="https://github.com/NacarateJ/instock" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 </span>
       </p>
 </p>
