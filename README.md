@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Hi there, I'm Jackie, a passionate and very curious full-stack web developer.</h2>
+  <h1>Hi there, I'm Jackie, a passionate and very curious full-stack web developer.</h1>
   </div>
   
 <br>
@@ -53,7 +53,7 @@
   <!---Video Demo--->
 
 <div align="center">
-  <h2>Projects I worked on:</h2>
+  <h2>PROJECTS</h2>
   </div>
   
   <div align="center">
