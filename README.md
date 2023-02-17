@@ -1,37 +1,53 @@
+<!-- Introduction -->
 
-<div align="center">
-  <h1>Hi there, I'm Jackie, a passionate and very curious full-stack web developer.</h1>
-  </div>
-  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&pause=1000&color=FA7372&width=800&lines=Hi+there%2C+I'm+Jackie+%F0%9F%91%8B;A+passionate+and+very+curious+full-stack+web+developer.;Welcome+to+my+GitHub+profile!&center=true&size=30">
+  </a>
+</h1>
+
 <br>
 
 <div align="center">
+  
+  <!-- Stats Card -->
+  
   <a href="https://github.com/NacarateJ">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NacarateJ&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_rank=true" />
      </a> 
   
+<!--  Languages Card  -->
+  
   <a href="https://github.com/NacarateJ">  
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NacarateJ&layout=compact&theme=aura_dark&hide=shell&langs_count=7" />
     </a> 
-  
-</div>
-<br>
-<div style="display: inline_block" align="center"><br>
- <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-   <img align="center" alt="Express" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg>
-   <img align="center" alt="Nodejs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-   <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Knex.js" height="30" width="30" src="https://static-00.iconduck.com/assets.00/knex-icon-512x512-vg01e8qb.png">
-  <img align="center" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-   <img align="center" alt="Jira" height="30" width="30" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png">
 </div>
 
-  <br>
+<br>
+
+<!-- Icons -->
+
+<h2 align="center">Languages && Frameworks && Tools && Abilities</h2>
+
+<div align="center">
+ <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" ></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Sass" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+   <code><img title="Express" height="25" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg></code>
+   <code><img title="Nodejs" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+   <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Knex.js" height="25" src="https://static-00.iconduck.com/assets.00/knex-icon-512x512-vg01e8qb.png"></code>
+  <code><img title="Git" height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+   <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+   <code><img title="Jira" height="25" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png"></code>
+</div>
+
+<br>
+ 
+ <h2 align="center">How to contact me</h2>
   
  <div align="center"> 
   <a href = "mailto:jaquelinenacarate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
