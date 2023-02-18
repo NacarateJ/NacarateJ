@@ -4,6 +4,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&pause=1000&color=FA7372&width=800&lines=Hi+there%2C+I'm+Jackie+%F0%9F%91%8B;A+passionate+and+very+curious+full-stack+web+developer.;Welcome+to+my+GitHub+profile!&center=true&size=30">
   </a>
+  
+<!--  Visitors Badge  -->
+  
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=NacarateJ.visitor-badge&left_color=%23fe7371&right_color=%23252334"  />
 </h1>
 
 <br>
@@ -47,6 +51,8 @@
 
 <br>
  
+<!-- Contact Information  -->
+ 
  <h2 align="center">How to contact me</h2>
   
  <div align="center"> 
@@ -55,18 +61,15 @@
   
   <br>
   <br>
-  <br>
- 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NacarateJ.visitor-badge&left_color=%23fe7371&right_color=%23252334"  />
   
-   ##
+<!--    ## -->
  
   ![Snake animation](https://github.com/NacarateJ/NacarateJ/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   
   
-  <!---Video Demo--->
+  <!---Video Gallery--->
 
 <div align="center">
   <h2>PROJECTS</h2>
