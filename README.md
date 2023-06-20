@@ -38,22 +38,50 @@
 
 <!-- Icons -->
 
-<h2 align="center">Languages && Frameworks && Tools && Abilities</h2>
+<h2 align="center">Thechnical Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
 
 <div align="center">
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img title="HTML - HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. It is frequently assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img title="CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img title="JavaScript is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" ></code></a>
+</div>
+
+<h3 align="center">Frameworks - Libraries - Environments</h3>
+
+<div align="center">
   <a href="https://reactjs.org/"><code><img title="React is a free and open-source front-end JavaScript library for building user interfaces based on components." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></a>
-  <a href="https://sass-lang.com/"><code><img title="Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. " height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code></a>
+   <a href="https://ejs.co/"><code><img title="EJS is a simple templating language that lets you generate HTML markup with plain JavaScript." height="25" src="https://github.com/NacarateJ/NacarateJ/assets/114256348/57063151-515b-430d-a335-b7e3ac4f67ec"></code></a>
+    <a href="https://jquery.com/"><code><img title="jQuery is a fast, small, and feature-rich JavaScript library that has changed the way that millions of people write JavaScript. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg"></code></a>
    <a href="https://expressjs.com/"><code><img title="Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js." height="25" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg></code></a>
    <a href="https://nodejs.org/en/"><code><img title="Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code></a>
-   <a href="https://www.mysql.com/"><code><img title="MySQL is an open-source relational database management system. " height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
+  <a href="https://sass-lang.com/"><code><img title="Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. " height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code></a>
+</div>
+
+<h3 align="center">Systems - CMS - Databases</h3>
+
+<div align="center">
+   <a href="https://www.mysql.com/"><code><img title="MySQL is an open-source relational database management system." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
+  <a href="https://www.postgresql.org/"><code><img title="PostgreSQL is a powerful, open source object-relational database system" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></code></a>
   <a href="https://knexjs.org/"><code><img title="Knex.js is a SQL query builder that supports various databases like Postgres, MySQL, SQLite, Oracle, and some others as well. It provides both callbacks and promise interface." height="25" src="https://static-00.iconduck.com/assets.00/knex-icon-512x512-vg01e8qb.png"></code></a>
+</div>
+
+<h3 align="center">Testing</h3>
+
+<div align="center">
+   <a href="https://mochajs.org/"><code><img title="Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></code></a>
+  <a href="https://www.chaijs.com/"><code><img title="Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework." height="25" src="https://github.com/NacarateJ/NacarateJ/assets/114256348/37c94017-2e27-4cff-b2a5-c8af606de984"></code></a>
+</div>
+
+<h3 align="center">Tools</h3>
+
+<div align="center">
   <a href="https://git-scm.com/"><code><img title="Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows." height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code></a>
    <a href="https://github.com/"><code><img title="GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code></a>
   <a href="https://www.postman.com/"><code><img title="Postman is an API platform for developers to design, build, test and iterate their APIs." height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code></a>
    <a href="https://www.atlassian.com/software/jira"><code><img title="Jira is a software application that allows teams to track issues, manage projects, and automate workflows." height="25" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png"></code></a>
+  <a href="https://slack.com/"><code><img title="Slack is an instant messaging program designed by Slack Technologies and owned by Salesforce." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></code></a>
 </div>
 
 <br>
