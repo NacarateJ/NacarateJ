@@ -40,7 +40,7 @@
 
 <h2 align="center">Technical Skills</h2>
 
-<h3 align="center">Programming Languages</h3>
+<h4 align="center">Programming Languages</h4>
 
 <div align="center">
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img title="HTML - HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. It is frequently assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code></a>
@@ -48,7 +48,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img title="JavaScript is a versatile programming language used to add interactivity and dynamic behavior to web pages. It allows you to create client-side scripts, often incorporating third-party libraries, that run on the user's web browser." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" ></code></a>
 </div>
 
-<h3 align="center">Frameworks - Libraries - Environments</h3>
+<h4 align="center">Frameworks - Libraries - Environments</h4>
 
 <div align="center">
   <a href="https://reactjs.org/"><code><img title="React is a popular front-end JavaScript library for building user interfaces. It provides a component-based approach to web development, allowing developers to build reusable UI components." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></a>
@@ -59,7 +59,7 @@
   <a href="https://sass-lang.com/"><code><img title="Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. It introduces features like variables, nesting, mixins, and functions, which improve code organization, reusability, and maintainability." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code></a>
 </div>
 
-<h3 align="center">Systems - CMS - Databases</h3>
+<h4 align="center">Systems - CMS - Databases</h4>
 
 <div align="center">
    <a href="https://www.mysql.com/"><code><img title="MySQL is an open-source relational database management system." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
@@ -67,14 +67,14 @@
   <a href="https://knexjs.org/"><code><img title="Knex.js is a SQL query builder for Node.js that supports various relational databases like Postgres and MySQL. It provides both callbacks and promise interface for building database queries in JavaScript." height="25" src="https://static-00.iconduck.com/assets.00/knex-icon-512x512-vg01e8qb.png"></code></a>
 </div>
 
-<h3 align="center">Testing</h3>
+<h4 align="center">Testing</h4>
 
 <div align="center">
    <a href="https://mochajs.org/"><code><img title="Mocha is a JavaScript testing framework for Node.js and web browsers. It provides a flexible and feature-rich environment for writing and executing asynchronous tests." height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></code></a>
   <a href="https://www.chaijs.com/"><code><img title="Chai is a BDD / TDD assertion library for Node.js and the browser. It can be paired with any javascript testing framework and provides a set of assertion styles and utilities to make test assertions more expressive and readable." height="25" src="https://github.com/NacarateJ/NacarateJ/assets/114256348/37c94017-2e27-4cff-b2a5-c8af606de984"></code></a>
 </div>
 
-<h3 align="center">Tools</h3>
+<h4 align="center">Tools</h4>
 
 <div align="center">
   <a href="https://git-scm.com/"><code><img title="Git is a distributed version control system used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project, manage code versions, and merge changes." height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code></a>
