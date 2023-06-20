@@ -38,7 +38,7 @@
 
 <!-- Icons -->
 
-<h2 align="center">Thechnical Skills</h2>
+<h2 align="center">Technical Skills</h2>
 
 <h3 align="center">Programming Languages</h3>
 
