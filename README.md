@@ -1,28 +1,20 @@
 <!-- Introduction -->
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&pause=1000&color=FA7372&width=800&lines=Hi+there%2C+I'm+Jackie+%F0%9F%91%8B;A+passionate+and+very+curious+full-stack+web+developer.;Welcome+to+my+GitHub+profile!&center=true&size=30">
   </a>
   
 <!--  Visitors Badge  -->
-
-<div align="center">
-
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=NacarateJ.visitor-badge&left_color=%23fe7371&right_color=%23252334"  />
-     
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NacarateJ.visitor-badge&left_color=%23fe7371&right_color=%23252334"  />
 </div>
-  
-</h1>
-
-
 
 <br>
 
-<div align="center">
   
-  <!-- Stats Card -->
+<!-- Stats Card -->
 
+<div align="center">
   <a href="https://github.com/NacarateJ/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NacarateJ&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true&hide_rank=true&count_private=true" alt="Jackies's github stats" />
   </a>
@@ -36,6 +28,20 @@
 </div>
 
 <br>
+
+<!-- Contact Information  -->
+ 
+ <h3 align="center">Let's connect...</h3>
+  
+ <div align="center"> 
+  <a href = "mailto:jaquelinenacarate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jaquelinenacarate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<br>
+<br>
+ 
+<!--![Snake animation](https://github.com/NacarateJ/NacarateJ/blob/output/github-contribution-grid-snake.svg)-->
+</div>
 
 <!-- Icons -->
 
@@ -86,26 +92,9 @@
 </div>
 
 <br>
- 
-<!-- Contact Information  -->
- 
- <h2 align="center">How to contact me</h2>
-  
- <div align="center"> 
-  <a href = "mailto:jaquelinenacarate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaquelinenacarate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <br>
-  <br>
-  
-<!--    ## -->
- 
-  ![Snake animation](https://github.com/NacarateJ/NacarateJ/blob/output/github-contribution-grid-snake.svg)
-</div>
   
   
-  
-  <!---Video Gallery--->
+<!---Video Gallery--->
 
 <div align="center">
   <h2>PROJECTS</h2>
