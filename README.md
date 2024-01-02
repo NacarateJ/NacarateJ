@@ -115,7 +115,7 @@
   
   <table>
     
-    <!---Resumatic & Scheduler--->
+  <!---Resumatic & Scheduler--->
     
    <tr>
   <td class="1" width="50%">
