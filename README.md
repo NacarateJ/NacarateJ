@@ -115,6 +115,47 @@
   
   <table>
     
+    <!---Resumatic & Scheduler--->
+    
+   <tr>
+  <td class="1" width="50%">
+  <h3 align="center">Resumatic</h3>
+  <p align="center">
+
+https://github.com/NacarateJ/resumatic/assets/114256348/533294c8-d6f4-4b64-9178-4ca5a0f2e60d
+    
+
+  <p align="center">
+             <p align="center"> Resumatic is an AI-powered resume builder using Next.js, Prisma, PostgreSQL, Material UI, and OpenAI API, offering real-time previews, downloadable PDFs, and shareable links for efficient, professional resume creation.</p>
+     <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/resumatic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+       </p>
+</p>
+  </p>
+  </td>
+    
+   
+  <td class="1" width="50%">
+  <h3 align="center">Scheduler</h3>
+   <p align="center">
+
+https://github.com/NacarateJ/scheduler/assets/114256348/a7d95b0e-a7de-4435-86c6-28b5db5572be
+
+ <p align="center">
+        <p align="center">Interview Scheduler is a single-page application that enables booking and managing technical interviews, powered by React, useReducer for state management, WebSocket for real-time updates, and tested with Storybook, Jest and Cypress.</p>
+    <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/scheduler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+      </p>
+</p>
+  </p>
+  </td>
+  </tr>
+
+  <!---The BJJ LogApp & InStock--->
     
   <tr>
   <td class="1" width="50%">
@@ -155,7 +196,7 @@ end.</p>
   </td>
   </tr>
   
-     
+  <!---BrainFlix & Band Site--->   
  
   <td class="1" width="50%">
   <h3 align="center">BrainFlix</h3>
