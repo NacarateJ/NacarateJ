@@ -149,6 +149,12 @@ https://github.com/NacarateJ/scheduler/assets/114256348/a7d95b0e-a7de-4435-86c6-
 <span>
 <a href="https://github.com/NacarateJ/scheduler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 </span>
+
+<span>
+<a href="https://int-scheduler.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/📅-Live Site-222f3e" alt="Scheduler" height="25px">
+</a> 
+</span>
       </p>
 </p>
   </p>
@@ -189,6 +195,59 @@ end.</p>
     <p align="center">
 <span>
 <a href="https://github.com/NacarateJ/instock" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+      </p>
+</p>
+  </p>
+  </td>
+  </tr>
+
+  <!---TuneTracker & Cats Timer--->
+    
+   <tr>
+  <td class="1" width="50%">
+  <h3 align="center">TuneTracker</h3>
+  <p align="center">
+
+https://github.com/NacarateJ/tuneTracker/assets/114256348/3cce69ef-51e0-40ab-8139-e666ea51c69c
+    
+
+  <p align="center">
+    <p align="center">TuneTracker is a user-friendly web application built with Angular and TypeScript, offering a seamless experience in exploring and favoriting the top 100 albums from the iTunes API, with advanced features like search, window scrolling, and a responsive design using Bootstrap 5 and SCSS.</p>
+     <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/tuneTracker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+       
+<span>
+<a href="https://tune-tracker.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/🎵-Live Site-78a9b4" alt="TuneTracker" height="25px">
+</a> 
+</span>
+  
+</p>
+</p>
+  </p>
+  </td>
+    
+   
+  <td class="1" width="50%">
+  <h3 align="center">Cats Timer</h3>
+   <p align="center">
+
+https://github.com/NacarateJ/cats-timer/assets/114256348/055dc71f-00f4-4c2e-8afa-891d4be2c30d
+
+ <p align="center">
+        <p align="center">Playful React-based app that blends timers and stopwatches with adorable cat images and meowing alerts, utilizing Axios for image fetching, Node-Sass for styling, and Jest for testing for a purr-fectly timed experience.</p>
+    <p align="center">
+<span>
+<a href="https://github.com/NacarateJ/scheduler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-blue?style=flat&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+</span>
+
+<span>
+<a href="https://cats-timer.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/🐱-Live Site-ffcc00" alt="Cats Timer" height="25px">
+</a> 
 </span>
       </p>
 </p>
